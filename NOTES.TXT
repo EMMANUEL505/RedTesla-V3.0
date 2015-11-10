@@ -1,0 +1,8 @@
+#int_TIMER1 
+void TIMER1_isr() 
+{ 
+	output_toggle(PIN_D5);
+} 
+	enable_interrupts(INT_TIMER1);
+	enable_interrupts(INTR_GLOBAL);
+	setup_timer1(TMR_INTERNAL | TMR_DIV_BY_8,1000 );

@@ -1,0 +1,29 @@
+_RETURN_
+RUN
+
+Project Directory:
+    C:\Users\e882742\Documents\Robotica\RedTesla V3.0\
+
+Project Files:
+    main.c
+    ..\..\..\..\..\Program Files (x86)\PICC\devices\30f5015.h
+    Config.h
+    Fuctions.h
+
+Units:
+    C:\Users\e882742\Documents\Robotica\RedTesla V3.0\main (main)
+
+Compiler Settings:
+    Processor:      DSPIC30F5015
+    Pointer Size:   16
+    ADC Range:      0-1023
+    Opt Level:      9
+    Short,Int,Long: SIGNED: 8,16,32
+    Float,Double:   32,64
+    Output file:    Relocatable
+
+Output Files:
+    Errors:      main.err
+    Ext Symbols: main.esym
+    Object:      main.o
+    Symbols:     main.osym
